@@ -1,6 +1,7 @@
 const express = require('express');
 const nodemailer = require('nodemailer');
 const cors = require('cors');
+const bodyParser = require('body-parser');
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -8,8 +9,9 @@ const port = process.env.PORT || 3000;
 // Enable CORS
 app.use(cors());
 
+//app.use(bodyParser.urlencoded({limit: '5000mb', extended: true, parameterLimit: 100000000000}));
 // Parse incoming form data
-//app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
 
 // Serve HTML form
@@ -17,9 +19,23 @@ app.get('/', (req, res) => {
   res.sendFile(__dirname + '/index.html');
 });
 
-// Handle form submission
-app.post('/submit-form', (req, res) => {
-  const { name, email, subject, body } = req.body;
+// Handle form submission..
+app.post('/send-review', (req, res) => {
+  const { fullname, email, subject, body, domain } = req.body;
+
+  let reciepent_email = ''
+  let reciepent_name = ''
+  let sender = 'lesibamoshweu@gmail.com'
+
+  switch(domain){
+    case 'rakgadieatery.tipegraphics.co.za':
+      reciepent_email = 'chyner.za@gmail.com'
+      reciepent_name = "Rakgadi"
+      break;
+    default:
+      reciepent_email = 'tipegraphics@gmail.com'
+      reciepent_name = "Lesiba"
+  } 
 
   console.log('Name:',req.body)
   // Create a nodemailer transporter
@@ -33,10 +49,10 @@ app.post('/submit-form', (req, res) => {
 
   // Set up email options
   const mailOptions = {
-    from: 'lesibamoshweu@gmail.com',
-    to: 'tipegraphics@gmail.com',
+    from: sender,
+    to: reciepent_email,
     subject: subject,
-    text: 'Hi Lesiba,\n\n' + body + '\n\nRegards:\n' + name + ' ['+email+']',
+    text: 'Hi ' + reciepent_name + ',\n\n' + body + '\n\nRegards:\n' + fullname + ' ['+email+']',
   };
 
   // Send the email
@@ -53,4 +69,3 @@ app.post('/submit-form', (req, res) => {
 app.listen(port, () => {
   console.log(`Server is running at http://localhost:${port}`);
 });
-
