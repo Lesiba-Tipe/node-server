@@ -10,13 +10,13 @@
   "name": "server",
   "description": "this is custom node server to handle internet services",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node netlify/functions/api.js",
+    "start": "node app.js",
     "build": "npm run build" 
   },
   "keywords": [],
-  "author": "",
+  "author": "Lesiba Moshweu",
   "license": "ISC"
 }
