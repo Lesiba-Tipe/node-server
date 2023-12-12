@@ -29,7 +29,7 @@ app.post('/send-review', (req, res) => {
 
   switch(domain){
     case 'rakgadieatery.tipegraphics.co.za':
-      reciepent_email = 'chyner.za@gmail.com'
+      reciepent_email = 'chyner.za@gmail.com'   //Change this to website owner's email
       reciepent_name = "Rakgadi"
       break;
     default:
