@@ -17,6 +17,7 @@ app.use(express.json());
 // Serve HTML form
 app.get('/', (req, res) => {
   res.sendFile(__dirname + '/index.html');
+  
 });
 
 // Handle form submission..
@@ -59,11 +60,17 @@ app.post('/send-review', (req, res) => {
   transporter.sendMail(mailOptions, (error, info) => {
     if (error) {
       return console.log('Error:', error);
+      //Redirect to 404 link
     }
     console.log('Email sent: ' + info.response);
     res.send('Form submitted successfully!');
+    //Redirect to success
   });
 });
+
+//Serve Youth Cafe data
+
+app.get('/api/youthcafe', (req, res) => res.sendFile(__dirname + '/Database/Youthcafe.json'))
 
 // Start the server
 app.listen(port, () => {
