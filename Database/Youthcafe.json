@@ -70,36 +70,39 @@
             "id": "001",
             "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
             "logo":"../media/tipegrahics-logo.png",
-            "tittle": "Driver/Cleaner",
-            "employer": "Microsoft",
-            "duration":"1 Month | Temp ",
-            "closing":"08 Feb 2024",
-            "posted":"04 Feb 2024",
-            "period":"Permenent",
-            "location":"Burgersfort, Limpopo",
-            "introduction":"Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, with a leading market presence in South Africa as well as a selected international offering in the United Kingdom, Australia, South East Asia and Southern and East Africa. Motus employs over 19 800 people globally and has a track record for steady growth and dependable value creation that spans over 75 years. Motus is a diversified (non-manufacturing) business in the automotive sector and is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain.",
+            "tittle": "Nedbank YES Programme ",
+            "employer": "YES Program",
+            "duration":"12 Months",
+            "closing":"Not specified",
+            "posted":"02 Feb 2024",
+            "period":"Contract",
+            "location":"South Africa, All provinces",
+            "introduction":"The YES Programme is a business-led collaboration with government to reduce unemployment by giving our youth an opportunity to develop new skills and gain meaningful workplace experience, which will improve their chances of finding long-term future employment significantly. A pivotal advantage of engaging in a YES program lies in the hands-on experience it offers. Participants immerse themselves in authentic work environments, acquiring practical skills and knowledge directly applicable to their forthcoming careers. This hands-on exposure proves invaluable in establishing a robust foundation for professional advancement, thereby increasing the potential for securing employment in the future.",
             "description": [
                 "The purpose of the position is to provide an effective transport service as per agreed standard operating procedures and legislative requirements. To deliver and collect goods, documentation, vehicles and customers at required destinations in a safe and proper manner."
             ],
             "responsibility":"",
             "exp":[
-                "2 years' and more of relevant experience "
+                "None"
             ],                      
             "qualifications":[
-                "Grade 12 | Matric",
-                "Valid, unendorsed Code 8 driver’s license (at least 2 years old)",
-                "Computer literate (basic level will suffice)",
-                "Must be fully bilingual and able to communicate with customers effectively in English.",
-                "Able to read a map."
+                "Matric qualification",
+                "Bachelor's degree in Finance/ Data/ Statistics/ Strategy/ Research/ Auditing/ Forensics/ Logistics/ Econometrics/ Commerce/ IT/ Engineering/ Marketing/ Journalism/ Social Sciences/ Mathematics, OR:",                                      
+                "Postgraduate Diploma in Compliance/ IT / Anti-Money Laundering/ Banking/ HR, OR:",
+                "NQF 5 Insurance Certification.",
+                "Must be currently unemployed.",
+                "Will not be enrolled in academic studies for the duration of the YES programme.",
+                "Have not participated in another YES programme with another organisation before.",
+                "No prior experience needed.",
+                "Positions available Nationwide (All 9 provinces).",
+                "12 Month Contract.",
+                "Stipend: R4407.00."
+            
 
             ],
             "skills":[
-                "Good interpersonal skills to support excellent face-to-face customer relations.",
-                "Flexible and self-motivated.",
-                "Honest, trustworthy and highly responsible.",
-                "Neat and presentable.",
-                "Must be able to handle pressure and exhibit good time management skills, demonstrating a sense of urgency and commitment.",
-                "A team player"
+                "Not Specified"
+                
             ],
             "Benefits":"",
             "apply":[
@@ -111,12 +114,72 @@
                 {
                     "state": true,
                     "type": "online",
-                    "name":"https://motus.erecruit.co/candidateapp/Jobs/View/MOT240131-8"
+                    "name":"https://afrizan.vincere.io/careers/job/35275/nedbank-yes-programme"
                 },
                 {
                     "state": false,
                     "type": "post",
                     "name":"P.O Box 000 Johannesburg 0743"
+                }
+            ],
+            "important":[],
+            "category":"Training",
+            "author":"Admin"
+        },
+        {
+            "id": "002",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "Clover",
+            "tittle": "Trainee: Corporate",
+            "duration":"Not Specified",
+            "closing":"14 Feb 2024",
+            "posted":"05 Feb 2024",
+            "period":"N/A",
+            "location":"South Africa, All provinces",
+            "introduction":"Clover’s corporate strategy is to build onto existing competencies within the Group and to establish a culture of exceptional performance with a view to set a platform for future market expansion. Different companies within the Group have different strategies, all receiving company-specific support to maximise their potential. Key to all its activities is the expansion of capacities to share in the strong growth in consumption in the segments which it dominates.",
+            "description": [
+                "Clover’s Pro-Star Young Professional Development Program provides young talented graduates and diploma students the opportunity to gain work experience or to complete their internship. Participants are afforded the opportunity to work in the business units related to their chosen profession and are introduced to the various other functions in the Clover Business whilst having a chance to experience the real world of work."
+            ],
+            "responsibility":"",
+            "exp":[
+                "2 years' and more of relevant experience "
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric",
+                "Diploma | Degree "
+            ],
+            "skills":[
+                "A Goal-driven Go-Getter, determined to succeed and passionate about crafting your career",
+                "Open-minded with a willingness to learn? An above average achiever in the chosen field of study",
+                "Able to communicate fluently in English (verbal and written)",
+                "A TEAM player"
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://clover.graduate.erecruit.co/candidateapp/Jobs/View/CLO240201-1"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
                 }
             ],
             "important":[],
