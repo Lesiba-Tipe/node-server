@@ -1,3 +1,129 @@
 {
-    "Status":"Database is active..."
+    "status": "Running in development",
+    "":{
+        "Type":["Private","Public"],
+        "Sector": ["Hospitality", "Sales", "ICT", "Banking", "Retail", "Manufacturing", "Farming", "Finance", "Education", "Engineering"],
+        "Category":[""],
+        "Department": ["Not Specified"]
+    },
+
+    "jobs":
+    [
+        {
+            "id": "000",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "tittle": "Driver/Cleaner",
+            "employer": "Motus | Auto Pedigree",
+            "duration":"1 Month | Temp ",
+            "closing":"08 Feb 2024",
+            "posted":"04 Feb 2024",
+            "period":"Permenent",
+            "location":"Burgersfort, Limpopo",
+            "introduction":"Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, with a leading market presence in South Africa as well as a selected international offering in the United Kingdom, Australia, South East Asia and Southern and East Africa. Motus employs over 19 800 people globally and has a track record for steady growth and dependable value creation that spans over 75 years. Motus is a diversified (non-manufacturing) business in the automotive sector and is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain.",
+            "description": [
+                "The purpose of the position is to provide an effective transport service as per agreed standard operating procedures and legislative requirements. To deliver and collect goods, documentation, vehicles and customers at required destinations in a safe and proper manner."
+            ],
+            "responsibility":"",
+            "exp":[
+                "2 years' and more of relevant experience "
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric",
+                "Valid, unendorsed Code 8 driver’s license (at least 2 years old)",
+                "Computer literate (basic level will suffice)",
+                "Must be fully bilingual and able to communicate with customers effectively in English.",
+                "Able to read a map."
+
+            ],
+            "skills":[
+                "Good interpersonal skills to support excellent face-to-face customer relations.",
+                "Flexible and self-motivated.",
+                "Honest, trustworthy and highly responsible.",
+                "Neat and presentable.",
+                "Must be able to handle pressure and exhibit good time management skills, demonstrating a sense of urgency and commitment.",
+                "A team player"
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://motus.erecruit.co/candidateapp/Jobs/View/MOT240131-8"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                }
+            ],
+            "important":[],
+            "category":"Training",
+            "author":"Admin"
+        },
+        {
+            "id": "001",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "tittle": "Driver/Cleaner",
+            "employer": "Microsoft",
+            "duration":"1 Month | Temp ",
+            "closing":"08 Feb 2024",
+            "posted":"04 Feb 2024",
+            "period":"Permenent",
+            "location":"Burgersfort, Limpopo",
+            "introduction":"Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, with a leading market presence in South Africa as well as a selected international offering in the United Kingdom, Australia, South East Asia and Southern and East Africa. Motus employs over 19 800 people globally and has a track record for steady growth and dependable value creation that spans over 75 years. Motus is a diversified (non-manufacturing) business in the automotive sector and is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain.",
+            "description": [
+                "The purpose of the position is to provide an effective transport service as per agreed standard operating procedures and legislative requirements. To deliver and collect goods, documentation, vehicles and customers at required destinations in a safe and proper manner."
+            ],
+            "responsibility":"",
+            "exp":[
+                "2 years' and more of relevant experience "
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric",
+                "Valid, unendorsed Code 8 driver’s license (at least 2 years old)",
+                "Computer literate (basic level will suffice)",
+                "Must be fully bilingual and able to communicate with customers effectively in English.",
+                "Able to read a map."
+
+            ],
+            "skills":[
+                "Good interpersonal skills to support excellent face-to-face customer relations.",
+                "Flexible and self-motivated.",
+                "Honest, trustworthy and highly responsible.",
+                "Neat and presentable.",
+                "Must be able to handle pressure and exhibit good time management skills, demonstrating a sense of urgency and commitment.",
+                "A team player"
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://motus.erecruit.co/candidateapp/Jobs/View/MOT240131-8"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                }
+            ],
+            "important":[],
+            "category":"Training",
+            "author":"Admin"
+        }
+        
+    ]
+
 }
