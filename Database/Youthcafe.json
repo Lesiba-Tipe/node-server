@@ -13,36 +13,42 @@
             "id": "000",
             "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
             "logo":"../media/tipegrahics-logo.png",
-            "tittle": "Driver/Cleaner",
-            "employer": "Motus | Auto Pedigree",
-            "duration":"1 Month | Temp ",
-            "closing":"08 Feb 2024",
-            "posted":"04 Feb 2024",
-            "period":"Permenent",
-            "location":"Burgersfort, Limpopo",
+            "tittle": "Apprentice Motor Mechanic Training Level 1",
+            "employer": "Motus | Lindsay Saker",
+            "duration":"Permanent",
+            "closing":"15 Feb 2024",
+            "posted":"12 Feb 2024",
+            "period":"Permanent",
+            "location":"Kempton Park, Gauteng",
             "introduction":"Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, with a leading market presence in South Africa as well as a selected international offering in the United Kingdom, Australia, South East Asia and Southern and East Africa. Motus employs over 19 800 people globally and has a track record for steady growth and dependable value creation that spans over 75 years. Motus is a diversified (non-manufacturing) business in the automotive sector and is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain.",
             "description": [
-                "The purpose of the position is to provide an effective transport service as per agreed standard operating procedures and legislative requirements. To deliver and collect goods, documentation, vehicles and customers at required destinations in a safe and proper manner."
+                "Lindsay Saker Kempton Park  offers suitable candidates an Accredited Competency Based Modular Training (CBMT) Apprenticeship, which is a combination of on-the-job training (OJT) and related classroom instruction under the supervision of a Qualified Motor Vehicle Mechanic. Imperial Technical Training Academy (ITTA) provides the theoretical; classroom-based education, which is situated in Ext 4, 16 Dakota Cres, Airport Park, Johannesburg, 1401."
             ],
-            "responsibility":"",
+            "responsibility":[
+                "Levels 1 - 4: 4 yr. contract",
+                "5 days in 5 weeks training at ITTA.",
+                "Distance learning program -CDX (this enhances apprentice training by exposure of interactive demonstrations and tutorials with quizzes and practical exercises delivered via the web at their place of work and at home in their study time.",
+                "Computer based testing and examination.",
+                "Practical competency testing",
+                "MIBCO",
+                "VW Service department on the job experience aligned to the level of competence achieved through the CBMT programme. Gather evidence to complete your portfolio of evidence as required by ITTA. o Working alongside an assigned technician in order to learn how to perform quality service maintenance and repairs to the original manufacturers’ description. Complete portfolio of evidence, o Inspect, maintain and repair vehicles whilst training with a qualified technician."
+            ],
             "exp":[
-                "2 years' and more of relevant experience "
+                "None", "None"
             ],                      
             "qualifications":[
-                "Grade 12 | Matric",
-                "Valid, unendorsed Code 8 driver’s license (at least 2 years old)",
-                "Computer literate (basic level will suffice)",
-                "Must be fully bilingual and able to communicate with customers effectively in English.",
-                "Able to read a map."
+                "Matric (N2 with Mathematics, Engineering Science and English (50% are essential)",
+                "Driver’s license",
+                "Computer literacy",
+                "The applicant will be required to take a mechanical insight test and pass sufficiently.",
+                "The applicant will go through trough the standard background checks before being considered for the next step. The applicant will go through a medical assessment to establish fitness for work.",
+                "Applicants that are successful will be placed through a Psychometric assessment and a face to face interview."
 
             ],
             "skills":[
-                "Good interpersonal skills to support excellent face-to-face customer relations.",
-                "Flexible and self-motivated.",
-                "Honest, trustworthy and highly responsible.",
-                "Neat and presentable.",
-                "Must be able to handle pressure and exhibit good time management skills, demonstrating a sense of urgency and commitment.",
-                "A team player"
+                "Team Work",
+                "Custumer Care"
+                
             ],
             "Benefits":"",
             "apply":[
@@ -54,7 +60,7 @@
                 {
                     "state": true,
                     "type": "online",
-                    "name":"https://motus.erecruit.co/candidateapp/Jobs/View/MOT240131-8"
+                    "name":"https://motus.erecruit.co/candidateapp/Jobs/View/MOT240208-2"
                 },
                 {
                     "state": false,
@@ -70,7 +76,7 @@
             "id": "001",
             "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
             "logo":"../media/tipegrahics-logo.png",
-            "tittle": "Nedbank YES Programme ",
+            "tittle": "Nedbank YES Programme",
             "employer": "YES Program",
             "duration":"12 Months",
             "closing":"Not specified",
@@ -81,7 +87,10 @@
             "description": [
                 "Furthermore, membership in a YES program opens the door to exposure in one of the largest financial services institutes. This exposure grants participants a distinctive understanding of the industry, allowing them to glean insights from seasoned professionals. The accompanying networking opportunities can be advantageous for expanding one's professional connections within the field, further contributing to increased job prospects. Active involvement in a YES program not only provides experience but also opens doors to potential permanent employment opportunities. Demonstrating exemplary performance and maintaining a positive attitude are essential, as individuals may be considered for permanent roles within the organization, offering stability and long-term career prospects."
             ],
-            "responsibility":"",
+            "responsibility":
+            [
+
+            ],
             "exp":[
                 "None"
             ],                      
@@ -130,30 +139,31 @@
             "id": "002",
             "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
             "logo":"../media/tipegrahics-logo.png",
-            "employer": "Clover",
-            "tittle": "Trainee: Corporate",
+            "employer": "Hyundai Automotive S.A",
+            "tittle": "Apprentice: Level 1 Germiston (Hyundai S.A)",
             "duration":"Not Specified",
-            "closing":"14 Feb 2024",
-            "posted":"05 Feb 2024",
+            "closing":"29 Dec 2029",
+            "posted":"12 Feb 2024",
             "period":"N/A",
-            "location":"South Africa, All provinces",
-            "introduction":"Clover’s corporate strategy is to build onto existing competencies within the Group and to establish a culture of exceptional performance with a view to set a platform for future market expansion. Different companies within the Group have different strategies, all receiving company-specific support to maximise their potential. Key to all its activities is the expansion of capacities to share in the strong growth in consumption in the segments which it dominates.",
+            "location":"Gauteng, South Africa,",
+            "introduction":"Hyundai Motor Company has served as the trailblazer of Korea’s automobile industry since rolling out its Pony, developed with its own exclusive technology. Hyundai Motor Company has risen as a globally recognized automobile manufacturer that exports its branded vehicles to over 200 countries. It is equipped with production bases all around the world. It is expanding the automobile market through its success in mass-producing hydrogen-powered vehicles for the first time in the world and launching GENESIS, a high-end brand, while propelling the future mobility industry forward based on its leadership in autonomous driving and connectivity technologies. It seeks to find better solutions for humanity by achieving technological innovation under the aim of 'Progress for Humanity'.",
             "description": [
-                "Clover’s Pro-Star Young Professional Development Program provides young talented graduates and diploma students the opportunity to gain work experience or to complete their internship. Participants are afforded the opportunity to work in the business units related to their chosen profession and are introduced to the various other functions in the Clover Business whilst having a chance to experience the real world of work."
+                "Hyundai Automotive S.A. is looking for 1st year Apprentice to join our dynamic team: The Apprentice scope will include but not be limited to the following: REMOVE, RECONDITION & REPLACE CYLINDER HEADS DISMANTLE, SERVICE, REPAIR & ASSEMBLE ENGINE BLOCK & WITH MAIN COMPONENTS REMOVE, DIAGNOSE & REPLACE FUEL SYSTEM COMPONENTS UNDERSTAND BASIC ELECTRONICSTEST IGNITION SYSTEM COMPONENTS STUDY FUNDAMENTALS OF ENGINE EFFICIENCY & FORCED CHARGING SYSTEMSRE MOVE, TEST, REPAIR & REPLACE ELECTRICAL COMPONENTS REMOVE & REPLACE CLUTCH & TRANSMISSION COMPONENTS DIAGNOSE & REPAIR BRAKE SYSTEM & COMPONENTS."
             ],
-            "responsibility":"",
+            "responsibility":[
+
+            ],
             "exp":[
                 "None"
             ],                      
             "qualifications":[
                 "Grade 12 | Matric",
-                "Diploma | Degree"
+                "N1-N4"
             ],
             "skills":[
-                "A Goal-driven Go-Getter, determined to succeed and passionate about crafting your career",
-                "Open-minded with a willingness to learn? An above average achiever in the chosen field of study",
-                "Able to communicate fluently in English (verbal and written)",
-                "A TEAM player"
+                "Good Communication skills",
+                "Interest in Motor Mechanics"
+                
             ],
             "Benefits":"",
             "apply":[
@@ -165,7 +175,91 @@
                 {
                     "state": true,
                     "type": "online",
-                    "name":"https://clover.graduate.erecruit.co/candidateapp/Jobs/View/CLO240201-1"
+                    "name":"https://motus.erecruit.co/candidateapp/Jobs/View/MOT221110-4"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Training",
+            "author":"Admin"
+        },
+        {
+            "id": "002",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "Transnet",
+            "tittle": "Learner: Work Integrated Non-Technical",
+            "duration":"Not Specified",
+            "closing":"16 Feb 2024",
+            "posted":"12 Feb 2024",
+            "period":"N/A",
+            "location":"Durban, KZN,",
+            "introduction":"As the custodian of ports, rail and pipelines, Transnet’s objective is to ensure a globally competitive freight system that enables sustained growth and diversification of the country’s economy. Transnet SOC Ltd is a public company (constituted in terms of the Legal Succession Act of 1989), with the South African Government as the sole shareholder",
+            "description": [
+                "The purpose of the Training Programme is to develop a pipeline for key roles within Transnet Port Terminals (TPT) through a structured 12-month training programme. The programme seeks to place Learners in specific areas within TPT according to their academic background, career aspirations and business requirements."
+            ],
+            "responsibility":[
+                "Follow a structured training programme",
+                "Undergo performance reviews and assessments",
+                "Perform all duties as contained in his/her development programme and any reasonable task requested by TPT"
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric",
+                "Grade 12 / Matric",
+                "•N6/TVET Certificate/NCV 4 Certificate in one of the following fields, with letter from Institution indicating in-service training",
+                
+                "Training & Devel'opment",
+                "Employee Relations,",
+                "Public Relations",
+                "Information Technology",
+                "Security",
+                "Sales & Marketing",
+                "Planning",
+                "Fleet Control/Transport Management"
+            ],
+            "skills":[
+                "Time management",
+                " Interpersonal skills and relationship building",
+                " Conflict management and resolution",
+                " Effective writing skills",
+                " Self-motivated",
+                " Attention to detail",
+                " Service orientated",
+                " Can-do-attitude",
+                " Integrity",
+                "Ability to work under pressure",
+                "Computer literacy (Microsoft Office Packages",
+                "Ability to multi-task",
+                "NB: Attach letter from Institution indicating in-service training request",
+                "Preference will be given to applicants within the eThekwini Municipality."
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://recruiting.transnet.net/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9RjY2OUQ4RUE0NjAyMUVERUIxQ0I0Q0ZENDhERDhGNjYmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=400&sap-language=EN&SAP-BROWSERHISTORY=disabled&SAP-EP-IVIEWHANDLE=007318092524&SAP-EP-IVIEWID=pcdshort%3a%2fHy9Jg0OCOvUdyuVHP%208aLT7Ep14%3d&SAP-EP-PCDUNIT=pcdshort%3a%2flDEPsu1fcMHZaA5D3b2rFDtzcaw%3d&SAP-EP-VERSION=7.50.202007312119&SAP-EXPLANATION=null&SAP-IE=EmulateIE8&SAP-WD-TSTAMP=1707461258201#"
                 },
                 {
                     "state": false,
@@ -186,6 +280,7 @@
             "category":"Training",
             "author":"Admin"
         }
+        
         
     ]
 
