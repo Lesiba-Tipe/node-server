@@ -362,6 +362,74 @@
             "important":[],
             "category":"Training",
             "author":"Admin"
+        },
+        {
+            "id": "005",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "Thruworths",
+            "tittle": "Stores Learnership",
+            "duration":"Not Specified",
+            "closing":"15 May 2024",
+            "posted":"21 Feb 2024",
+            "period":"N/A",
+            "location":"Multiple locations in Gauteng",
+            "introduction":"Truworths forms part of Truworths International, an investment holding company listed on the JSE, whose companies are engaged in the retailing of fashion apparel and accessories. The Truworths International Retail Group incorporates Identity, YDE and Uzzi.",
+            "description": [
+                "The learnership will allow individuals to be cross trained making them able to operate on both the sales floor and the service desk, of a retail outlet. Working with customers and stock will be a key focus area. To be successful in this position, you must be committed to learning and completing logbooks; be prepared for assessments and found to be competent as a crossed trained sales consultant."
+            ],
+            "responsibility":[
+                "Work a minimum of 120 hours",
+                "Learn and form knowledge",
+                "Prepare for Assessments",
+                "Assist customers with finding merchandise",
+                "Merchandising the store according to the MBP principals",
+                "Payments and purchases on the POS system",
+                "Opening new accounts",
+                "Maintaining or controlling stock losses",
+                "Building relationships with customers",
+                "Maintaining customer security and safety"
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Grade 10",
+                "Passion for fashion and retail"         
+            ],
+            "skills":[
+                "Not specified"
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://truworths-learnerships.erecruit.co/candidateapp/Jobs/Categories/Gauteng/e417e7b31e354a05ad949cf41a377969"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Training",
+            "author":"Admin"
         }
         
         
