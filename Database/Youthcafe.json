@@ -430,6 +430,65 @@
             "important":[],
             "category":"Training",
             "author":"Admin"
+        },
+        {
+            "id": "006",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "TotalEnergies Marketing South Africa (Pty) Ltd ",
+            "tittle": "Learnership - Supply Chain",
+            "duration":"12 Months",
+            "closing":"Not specified",
+            "posted":"21 Feb 2024",
+            "period":"N/A",
+            "location":"Durban, KZN",
+            "introduction":"TotalEnergies is an equal opportunity employer and all applicants that meet the specified criteria will receive consideration for employment without discriminating unfairly on any arbitrary ground, including but not limited to race, gender, sex, ethnic or social origin, colour, sexual orientation, age, disability, religious conscience belief, political opinion, culture, language, marital status, or family responsibility.",
+            "description": [
+                "A 12 months learnership opportunity for the Youth with a National Senior Certificate (Matric).."
+            ],
+            "responsibility":[
+                "he learner will be placed at The Lubricants Manufacturing Plant in Durban (Island View) and will gain practical experience in Logistics and multi-functional administrative duties"
+
+            ],
+            "exp":[
+                "None or less than 3 years"
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric"         
+            ],
+            "skills":[
+                "Negotiation Skills."
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://totalenergies.avature.net/en_US/careers/JobDetail/Learnership-Supply-Chain/40492#"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Training",
+            "author":"Admin"
         }
         
         
