@@ -9,8 +9,13 @@
     "files":
     [
         {
-            "name": "Latest-z83",
-            "url": "this is url",
+            "name": "Latest-Z83 form-2020",
+            "url": "https://drive.google.com/file/d/1G39mhQ7F8wKOfpkyfygGsT47-9LjXDif/view?usp=sharing",
+            "ext": "pdf"
+        },
+        {
+            "name": "z83_Editable",
+            "url": "https://drive.google.com/file/d/1L4VuptNjdUzhsDWc9xDu2d8c7CoQJOT7/view?usp=drive_link",
             "ext": "pdf"
         }
     ],
