@@ -489,6 +489,71 @@
             "important":[],
             "category":"Training",
             "author":"Admin"
+        },
+        {
+            "id": "007",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "Tiger Brands",
+            "tittle": "Intern: Quality (Boksburg)",
+            "duration":"12 Months",
+            "closing":"Not specified",
+            "posted":"21 Feb 2024",
+            "period":"N/A",
+            "location":"Boksburg, Gauteng",
+            "introduction":"Woven into the fabric of our beautiful country is the story of an extraordinary company that has touched the lives of South Africans for over nine decades. The Tiger Brands’ story is one rich in bold moves, belief and brilliance, centred around our expansive portfolio of proudly South African brands. From iconic TV adverts like the Koo ‘Mama Thembu’s getting married’ advert to cherished memories of sharing a Tinkies with your best friend on the playground, our brands have been part of the moments that matter in the lives of millions of South Africans since 1921. We have developed an intrinsic understanding of our consumers’ needs, recognising the moments when they need us most, and how best to meet these needs from the very beginning of life through to old age. Our purpose is simple - to nourish and nurture more lives every day.",
+            "description": [
+                "An opportunity to work on and support projects within Tiger Brands. This Intership role will provide you with practical experience and give you a head start and understanding on your chosen career path."
+            ],
+            "responsibility":[
+                "Support project work",
+                "Problem-solve issues",
+                "Work with a cross-functional team to complete a Work Integrated Learning project as assigned by your Line Manager",
+                "Attain on-the-job work experience aligned with your career aspirations",
+                "Perform additional responsibilities as requested to achieve business objectives.",
+                "You would have graduated with the relevant degree as per the job title"
+
+            ],
+            "exp":[
+                "None or less than 3 years"
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric",
+                "National Diploma: (Must require P1 & P2)"         
+            ],
+            "skills":[
+                "None"
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://www.linkedin.com/jobs/view/3819955248/?trackingId=ni9T%2FSZSTVObJp4wfFz1aw%3D%3D&refId=edCt6WQISp65CNUDRST5cw%3D%3D&midToken=AQHTRHcOwM4_4Q&midSig=0UdmMk5xxwvX81&trk=eml-jobs_jymbii_digest-job_card-0-jobcard_body&trkEmail=eml-jobs_jymbii_digest-job_card-0-jobcard_body-null-9wys7s~lsvp3j8p~tv-null-null&eid=9wys7s-lsvp3j8p-tv&otpToken=MTcwYzE3ZTUxNDI4YzhjMmJjMjQwNGVkNDYxNmUyYjU4Y2M3ZDU0ODljYTY4YzYxNzRjZjA4NmQ0ZjU5NWZmNmY3ZDdkZmE3NGNiNmVhZTQ0MWE5YWRkMjJmZThjOTlmNTVmNjk4N2EyNmQwYzc5Y2Q1YzkxZiwxLDE%3D"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Training",
+            "author":"Admin"
         }
         
         
