@@ -6,7 +6,14 @@
         "Category":[""],
         "Department": ["Not Specified"]
     },
-
+    "files":
+    [
+        {
+            "name": "Latest-z83",
+            "url": "this is url",
+            "ext": "pdf"
+        }
+    ],
     "jobs":
     [
         {
@@ -197,7 +204,7 @@
             "author":"Admin"
         },
         {
-            "id": "002",
+            "id": "003",
             "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
             "logo":"../media/tipegrahics-logo.png",
             "employer": "Transnet",
@@ -259,6 +266,78 @@
                     "state": true,
                     "type": "online",
                     "name":"https://recruiting.transnet.net/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9RjY2OUQ4RUE0NjAyMUVERUIxQ0I0Q0ZENDhERDhGNjYmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=400&sap-language=EN&SAP-BROWSERHISTORY=disabled&SAP-EP-IVIEWHANDLE=007318092524&SAP-EP-IVIEWID=pcdshort%3a%2fHy9Jg0OCOvUdyuVHP%208aLT7Ep14%3d&SAP-EP-PCDUNIT=pcdshort%3a%2flDEPsu1fcMHZaA5D3b2rFDtzcaw%3d&SAP-EP-VERSION=7.50.202007312119&SAP-EXPLANATION=null&SAP-IE=EmulateIE8&SAP-WD-TSTAMP=1707461258201#"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Training",
+            "author":"Admin"
+        },
+        {
+            "id": "004",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "Spar Group",
+            "tittle": "YES Programme",
+            "duration":"12 Months | 1 April 2024– 31 March 2025",
+            "closing":"23 Feb 2024",
+            "posted":"21 Feb 2024",
+            "period":"N/A",
+            "location":"Durban, KZN,",
+            "introduction":"We are a part of the community and community is like family. We strive to give you the highest quality produce, the freshest meats, and granny-approved baked goods, all at the right price, every day.",
+            "description": [
+                "The SPAR Group Ltd SA understands that youth employment is important for our country’s economic growth. As such, SPAR has collaborated with YES for Youth to create a quality work experience to enable youth to reach their full career potential. Catalyx, as an implementation partner for SPAR SA is inviting unemployed youth to apply to join the YES for Youth twelve month work experience opportunity. SPAR / YES / Catalyx, does NOT charge any fees to join the programme."
+            ],
+            "responsibility":[
+                "In KwaZulu Natal we have opportunities open at our Distribution Centres in Phoenix Industrial Park and Mount Edgecombe. Interns will earn a minimum wage, receive ongoing personal development training and coaching and numerous other benefits. SPAR’s purpose is “to inspire people to do and be more” and we live by our company values of Family, Entrepreneurship and Passion, a culture that takes the development of our people seriously"
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric",
+                "Must be a South African Citizen",
+                "Must be 18 – 28 years old",
+                "Currently unemployed and NOT studying full time",
+                "Passed Matric and with the relevant Tertiary Qualification (Undergraduate Degree)",
+
+                "Degree in Financial Management / Cost and Management Accounting",
+                "Degree in Retail Management / Business Management / Supply Chain Management",
+                "Information Technology",
+                "Degree in Road Transport Management",
+                "Degree in Project Management",
+                "Degree in Consumer Science: Food and Nutrition / Biochemistry",
+                "Degree in Quality Control: Food Technology / Microbiology",
+                "Degree in Environmental Health",
+                "Degree in Safety Management / Quality Assurance"
+            ],
+            "skills":[
+                "Not specified"
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://www.pnet.co.za/jobs--YES-Programme-Durban-SPAR-Group--3768734-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0"
                 },
                 {
                     "state": false,
