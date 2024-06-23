@@ -9,14 +9,161 @@
     "files":
     [
         {
-            "name": "Latest-Z83 form-2020",
+            "name": "Latest-z83-form-2020",
             "url": "https://drive.google.com/file/d/1G39mhQ7F8wKOfpkyfygGsT47-9LjXDif/view?usp=sharing",
             "ext": "pdf"
         },
         {
-            "name": "z83_Editable",
+            "name": "z83-editable",
             "url": "https://drive.google.com/file/d/1L4VuptNjdUzhsDWc9xDu2d8c7CoQJOT7/view?usp=drive_link",
             "ext": "pdf"
+        },
+        {
+            "name": "how to fill z83",
+            "url": "#",
+            "ext": "pdf"
+        }
+    ],
+
+    "vasities": [
+        {
+            "name": "Tshwane Univesity of Technology",
+            "website": "https://tut.ac.za",
+            "logo": ""
+        },
+        {
+            "name": "Vaal Univesity of Technology",
+            "website": "https://vut.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of Venda",
+            "website": "https://univen.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of Pretoria",
+            "website": "https://up.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of Johannesburg",
+            "website": "https://uj.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Wits University",
+            "website": "https://wits.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of Cape Town",
+            "website": "https://uct.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of South Africa",
+            "website": "https://unisa.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of Limpopo",
+            "website": "https://ul.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of Mpumalanga",
+            "website": "https://website.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of Free State",
+            "website": "https://website.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of North West",
+            "website": "https://website.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of Kwa Zulu Natal",
+            "website": "https://website.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Mangusuthu Univesity",
+            "website": "https://website.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Univesity of Fort Hare",
+            "website": "https://website.ac.za",
+            "logo": ""
+
+        },
+        {
+            "name": "Medunsa",
+            "website": "https://website.ac.za",
+            "logo": ""
+
+        }
+    ],
+    "bursaries":[
+        {
+            "id": "000",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "tittle": "NSFAS bursary",
+            "sponsor": "National Financial Aid Scheme",
+            "closing":"30 Sep 2024",
+            "posted":"13 Mar 2024",
+            "location":"All Provinces, South Africa",
+            "introduction":"About NSFAS",
+            "description": [
+                "NSFAS Description"
+            ],                    
+            "qualifications":[
+                "Matric qualification",
+                "S.A Citizens",
+                "Must be 18 year or older.",
+                "Never been sponsored by NSFAS for other qualification"
+            ],
+            "requirements":[
+                
+            ],
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://nsfas.org.za"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                }
+            ],
+            "important":[],           
+            "author":"Admin"
         }
     ],
     "jobs":
@@ -81,7 +228,7 @@
                 }
             ],
             "important":[],
-            "category":"Training",
+            "category":"Internship",
             "author":"Admin"
         },
         {
@@ -144,7 +291,7 @@
                 }
             ],
             "important":[],
-            "category":"Training",
+            "category":"Internship",
             "author":"Admin"
         },
         {
@@ -205,7 +352,7 @@
                 }
             ],
             "important":[],
-            "category":"Training",
+            "category":"Internship",
             "author":"Admin"
         },
         {
@@ -288,7 +435,7 @@
                 }
             ],
             "important":[],
-            "category":"Training",
+            "category":"Internship",
             "author":"Admin"
         },
         {
@@ -360,7 +507,7 @@
                 }
             ],
             "important":[],
-            "category":"Training",
+            "category":"Internship",
             "author":"Admin"
         },
         {
@@ -428,7 +575,7 @@
                 }
             ],
             "important":[],
-            "category":"Training",
+            "category":"Learnership",
             "author":"Admin"
         },
         {
@@ -487,7 +634,7 @@
                 }
             ],
             "important":[],
-            "category":"Training",
+            "category":"Learnership",
             "author":"Admin"
         },
         {
@@ -515,7 +662,7 @@
 
             ],
             "exp":[
-                "None or less than 3 years"
+                "None"
             ],                      
             "qualifications":[
                 "Grade 12 | Matric",
@@ -552,11 +699,72 @@
                 }
             ],
             "important":[],
-            "category":"Training",
+            "category":"Internship",
+            "author":"Admin"
+        },
+        {
+            "id": "008",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "tittle": "Apprentice Motor Mechanic Training Level 1",
+            "employer": "Motus | Lindsay Saker",
+            "duration":"Permanent",
+            "closing":"15 Feb 2024",
+            "posted":"12 Feb 2024",
+            "period":"Permanent",
+            "location":"Kempton Park, Gauteng",
+            "introduction":"Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, with a leading market presence in South Africa as well as a selected international offering in the United Kingdom, Australia, South East Asia and Southern and East Africa. Motus employs over 19 800 people globally and has a track record for steady growth and dependable value creation that spans over 75 years. Motus is a diversified (non-manufacturing) business in the automotive sector and is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain.",
+            "description": [
+                "Lindsay Saker Kempton Park  offers suitable candidates an Accredited Competency Based Modular Training (CBMT) Apprenticeship, which is a combination of on-the-job training (OJT) and related classroom instruction under the supervision of a Qualified Motor Vehicle Mechanic. Imperial Technical Training Academy (ITTA) provides the theoretical; classroom-based education, which is situated in Ext 4, 16 Dakota Cres, Airport Park, Johannesburg, 1401."
+            ],
+            "responsibility":[
+                "Levels 1 - 4: 4 yr. contract",
+                "5 days in 5 weeks training at ITTA.",
+                "Distance learning program -CDX (this enhances apprentice training by exposure of interactive demonstrations and tutorials with quizzes and practical exercises delivered via the web at their place of work and at home in their study time.",
+                "Computer based testing and examination.",
+                "Practical competency testing",
+                "MIBCO",
+                "VW Service department on the job experience aligned to the level of competence achieved through the CBMT programme. Gather evidence to complete your portfolio of evidence as required by ITTA. o Working alongside an assigned technician in order to learn how to perform quality service maintenance and repairs to the original manufacturers’ description. Complete portfolio of evidence, o Inspect, maintain and repair vehicles whilst training with a qualified technician."
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Matric (N2 with Mathematics, Engineering Science and English (50% are essential)",
+                "Driver’s license",
+                "Computer literacy",
+                "The applicant will be required to take a mechanical insight test and pass sufficiently.",
+                "The applicant will go through trough the standard background checks before being considered for the next step. The applicant will go through a medical assessment to establish fitness for work.",
+                "Applicants that are successful will be placed through a Psychometric assessment and a face to face interview."
+
+            ],
+            "skills":[
+                "Team Work",
+                "Custumer Care"
+                
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://motus.erecruit.co/candidateapp/Jobs/View/MOT240208-2"
+                },
+                {
+                    "state": false, 
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                }
+            ],
+            "important":[],
+            "category":"Internship",
             "author":"Admin"
         }
-        
-        
     ]
 
 }
