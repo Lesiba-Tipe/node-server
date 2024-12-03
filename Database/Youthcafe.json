@@ -1,0 +1,834 @@
+{
+    "status": "Running in development",
+    "":{
+        "Type":["Private","Public"],
+        "Sector": ["Hospitality", "Sales and Marketing", "ICT", "Banking", "Retail", "Manufacturing", "Farming", "Finance", "Education", "Engineering"],
+        "Category":[""],
+        "Department": ["Not Specified"]
+    },
+    "files":
+    [
+        {
+            "name": "Latest-z83-form-2021",
+            "url": "https://www.gov.za/sites/default/files/Z83.pdf",
+            "ext": "pdf"
+        },
+        {
+            "name": "z83-form-2021-alt",
+            "url": "https://drive.google.com/file/d/1G39mhQ7F8wKOfpkyfygGsT47-9LjXDif/view?usp=sharing",
+            "ext": "pdf"
+        },
+        {
+            "name": "z83-editable",
+            "url": "https://drive.google.com/file/d/1L4VuptNjdUzhsDWc9xDu2d8c7CoQJOT7/view?usp=drive_link",
+            "ext": "pdf"
+        }
+
+    ],
+
+    "vasities": [
+        {
+            "name": "Tshwane University of Technology",
+            "website": "https://tut.ac.za",
+            "email": "vanderlindeme@tut.ac.za",
+            "telephone": "012 382 4112/3",
+            "registrar": "Prof L van Staden (Lourens)",
+            "province": "Gauteng | Limpopo | Mpumalanga",
+            "logo": ""
+        },
+        {
+            "name": "Vaal University of Technology",
+            "website": "https://vut.ac.za",
+            "email": "gapenyanes@vut.ac.za",
+            "telephone": " 016 950 9215",
+            "registrar": "Prof NG Zide (Gordon)",
+            "province": "Gauteng",
+            "logo": ""
+
+        },
+        {
+            "name": "University of Venda",
+            "website": "https://univen.ac.za",
+            "email": "vice.chancellor@univen.ac.za",
+            "telephone": "015 962 8316",
+            "registrar": "Prof JC Crafford (Jan)",
+            "province": "Limpopo",
+            "logo": ""
+
+        },
+        {
+            "name": "University of Pretoria",
+            "website": "https://www.up.ac.za/",
+            "email": "rector@up.ac.za",
+            "telephone": "011 559 4805/2911",
+            "registrar": "Prof C de la Rey (Cheryl)",
+            "province": "Gauteng",
+            "logo": ""
+
+        },
+        {
+            "name": "University of Johannesburg",
+            "website": "https://.uj.ac.za",
+            "email": "Thabom@uj.ac.za",
+            "telephone": "011 559 4805/2911",
+            "registrar": "Prof T Marwala (Tshilidzi)",
+            "province": "Gauteng",
+            "logo": ""
+
+        },
+        {
+            "name": "University of the Witwatersrand",
+            "website": "https://wits.ac.za",
+            "email": "sammy.masehe1@wits.ac.za",
+            "telephone": "011 717 1101/2",
+            "registrar": "Prof A Habib (Adam)",
+            "province": "Gauteng",
+            "logo": ""
+
+        },
+        {
+            "name": "University of Cape Town",
+            "website": "https://uct.ac.za",
+            "email": " deborah.hendricks@uct.ac.za",
+            "telephone": "021 650 2105/6",
+            "registrar": "Dr M Price (Max)",
+            "province": "Western Cape",
+            "logo": ""
+
+        },
+        {
+            "name": "University of South Africa",
+            "website": "https://unisa.ac.za",
+            "email": "Moganma@unisa.ac.za",
+            "telephone": "012 429 2550",
+            "registrar": "Prof MS Makhanya (Mandla)",
+            "province": "Gauteng | All provinces)",
+            "logo": ""
+
+        },
+        {
+            "name": "University of Limpopo",
+            "website": "https://ul.ac.za",
+            "email": "frances.pratt@ul.ac.za",
+            "telephone": "015 268 2140/2100",
+            "registrar": "Prof NM Mokgalong (Mahlo)",
+            "province": "Limpopo",
+            "logo": ""
+
+        },
+        {
+            "name": "University of Mpumalanga (UMP)",
+            "website": "https://ump.ac.za",
+            "email": "Nozuko.ngqukana@ump.ac.za",
+            "telephone": "013 002 0011",
+            "registrar": "Prof T Mayekiso (Thoko)",
+            "province": "Mpumalanga",
+            "logo": ""
+
+        },
+        {
+            "name": "University of the Free State",
+            "website": "https://ufs.ac.za",
+            "email": "rector@ufs.ac.za",
+            "telephone": "051 401 7000",
+            "registrar": "Prof F Petersen (Francis)",
+            "province": "Free State",
+            "logo": ""
+        },
+        {
+            "name": "North-West University",
+            "website": "https://nwu.ac.za",
+            "email": "lerato.tsagae@nwu.ac.za",
+            "telephone": "018 299 4901/2",
+            "registrar": "Prof D Kgwadi (Dan)",
+            "province": "Noth West",
+            "logo": ""
+
+        },
+        {
+            "name": "University of KwaZulu Natal (UKZN)",
+            "website": "https://ukzn.ac.za",
+            "email": "Reddyj1@ukzn.ac.za",
+            "telephone": "031 260 2227/8",
+            "registrar": "Prof A van Jaarsveld (Albert)",
+            "province": "KwaZulu Natal",
+            "logo": ""
+
+        },
+        {
+            "name": "Mangosuthu University of Technology (MUT)",
+            "website": "https://mut.ac.za",
+            "email": "adsecretary@mut.ac.za",
+            "telephone": "031-907 7219",
+            "registrar": "Prof D Malaza (Duma)",
+            "province": "Kwa Zulu Natal",
+            "logo": ""
+
+        },
+        {
+            "name": "University of Fort Hare (UFT)",
+            "website": "https://ufh.ac.za",
+            "email": "kgola@ufh.ac.za",
+            "telephone":"040 602 2071",
+            "registrar": "Prof S Buhlungu (Sakhela)",
+            "province": "Eastern Cape",
+            "logo": ""
+        },
+        {
+            "name": "Sefako Makgatho Health & Sciences University (SMU)",
+            "website": "https://smu.ac.za",
+            "email": "erica.ehlers@smu.ac.za",
+            "telephone":"012 302 2002/4112",
+            "registrar": "Prof C de Beer (Chris)",
+            "province": "Gauteng",
+            "logo": ""
+
+        }
+
+    ],
+    "bursaries":[
+        {
+            "id": "000",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "tittle": "NSFAS bursary",
+            "sponsor": "National Financial Aid Scheme",
+            "closing":"30 Sep 2024",
+            "posted":"13 Mar 2024",
+            "location":"All Provinces, South Africa",
+            "introduction":"About NSFAS",
+            "description": [
+                "NSFAS Description"
+            ],                    
+            "qualifications":[
+                "Matric qualification",
+                "S.A Citizens",
+                "Must be 18 year or older.",
+                "Never been sponsored by NSFAS for other qualification"
+            ],
+            "requirements":[
+                
+            ],
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://www.nsfas.org.za/content/how-to-apply.html"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                }
+            ],
+            "important":[],           
+            "author":"Admin"
+        }
+    ],
+    "jobs":
+    [
+        {
+            "id": "000",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "tittle": "Apprentice Motor Mechanic Training Level 1",
+            "employer": "Motus | Lindsay Saker",
+            "duration":"Permanent",
+            "closing":"15 Feb 2024",
+            "posted":"12 Feb 2024",
+            "period":"Permanent",
+            "location":"Kempton Park, Gauteng",
+            "introduction":"Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, with a leading market presence in South Africa as well as a selected international offering in the United Kingdom, Australia, South East Asia and Southern and East Africa. Motus employs over 19 800 people globally and has a track record for steady growth and dependable value creation that spans over 75 years. Motus is a diversified (non-manufacturing) business in the automotive sector and is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain.",
+            "description": [
+                "Lindsay Saker Kempton Park  offers suitable candidates an Accredited Competency Based Modular Training (CBMT) Apprenticeship, which is a combination of on-the-job training (OJT) and related classroom instruction under the supervision of a Qualified Motor Vehicle Mechanic. Imperial Technical Training Academy (ITTA) provides the theoretical; classroom-based education, which is situated in Ext 4, 16 Dakota Cres, Airport Park, Johannesburg, 1401."
+            ],
+            "responsibility":[
+                "Levels 1 - 4: 4 yr. contract",
+                "5 days in 5 weeks training at ITTA.",
+                "Distance learning program -CDX (this enhances apprentice training by exposure of interactive demonstrations and tutorials with quizzes and practical exercises delivered via the web at their place of work and at home in their study time.",
+                "Computer based testing and examination.",
+                "Practical competency testing",
+                "MIBCO",
+                "VW Service department on the job experience aligned to the level of competence achieved through the CBMT programme. Gather evidence to complete your portfolio of evidence as required by ITTA. o Working alongside an assigned technician in order to learn how to perform quality service maintenance and repairs to the original manufacturers’ description. Complete portfolio of evidence, o Inspect, maintain and repair vehicles whilst training with a qualified technician."
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Matric (N2 with Mathematics, Engineering Science and English (50% are essential)",
+                "Driver’s license",
+                "Computer literacy",
+                "The applicant will be required to take a mechanical insight test and pass sufficiently.",
+                "The applicant will go through trough the standard background checks before being considered for the next step. The applicant will go through a medical assessment to establish fitness for work.",
+                "Applicants that are successful will be placed through a Psychometric assessment and a face to face interview."
+
+            ],
+            "skills":[
+                "Team Work",
+                "Custumer Care"
+                
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://motus.erecruit.co/candidateapp/Jobs/View/MOT240208-2"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                }
+            ],
+            "important":[],
+            "category":"Internship",
+            "author":"Admin"
+        },
+        {
+            "id": "001",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "tittle": "Nedbank YES Programme",
+            "employer": "YES Program",
+            "duration":"12 Months",
+            "closing":"Not specified",
+            "posted":"02 Feb 2024",
+            "period":"Contract",
+            "location":"South Africa, All provinces",
+            "introduction":"The YES Programme is a business-led collaboration with government to reduce unemployment by giving our youth an opportunity to develop new skills and gain meaningful workplace experience, which will improve their chances of finding long-term future employment significantly. A pivotal advantage of engaging in a YES program lies in the hands-on experience it offers. Participants immerse themselves in authentic work environments, acquiring practical skills and knowledge directly applicable to their forthcoming careers. This hands-on exposure proves invaluable in establishing a robust foundation for professional advancement, thereby increasing the potential for securing employment in the future.",
+            "description": [
+                "Furthermore, membership in a YES program opens the door to exposure in one of the largest financial services institutes. This exposure grants participants a distinctive understanding of the industry, allowing them to glean insights from seasoned professionals. The accompanying networking opportunities can be advantageous for expanding one's professional connections within the field, further contributing to increased job prospects. Active involvement in a YES program not only provides experience but also opens doors to potential permanent employment opportunities. Demonstrating exemplary performance and maintaining a positive attitude are essential, as individuals may be considered for permanent roles within the organization, offering stability and long-term career prospects."
+            ],
+            "responsibility":
+            [
+
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Matric qualification",
+                "Bachelor's degree in Finance/ Data/ Statistics/ Strategy/ Research/ Auditing/ Forensics/ Logistics/ Econometrics/ Commerce/ IT/ Engineering/ Marketing/ Journalism/ Social Sciences/ Mathematics, OR:",                                      
+                "Postgraduate Diploma in Compliance/ IT / Anti-Money Laundering/ Banking/ HR, OR:",
+                "NQF 5 Insurance Certification.",
+                "Must be currently unemployed.",
+                "Will not be enrolled in academic studies for the duration of the YES programme.",
+                "Have not participated in another YES programme with another organisation before.",
+                "No prior experience needed.",
+                "Positions available Nationwide (All 9 provinces).",
+                "12 Month Contract.",
+                "Stipend: R4407.00."
+            
+
+            ],
+            "skills":[
+                "Not Specified"
+                
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://afrizan.vincere.io/careers/job/35275/nedbank-yes-programme"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                }
+            ],
+            "important":[],
+            "category":"Internship",
+            "author":"Admin"
+        },
+        {
+            "id": "002",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "Hyundai Automotive S.A",
+            "tittle": "Apprentice: Level 1 Germiston (Hyundai S.A)",
+            "duration":"Not Specified",
+            "closing":"29 Dec 2029",
+            "posted":"12 Feb 2024",
+            "period":"N/A",
+            "location":"Gauteng, South Africa,",
+            "introduction":"Hyundai Motor Company has served as the trailblazer of Korea’s automobile industry since rolling out its Pony, developed with its own exclusive technology. Hyundai Motor Company has risen as a globally recognized automobile manufacturer that exports its branded vehicles to over 200 countries. It is equipped with production bases all around the world. It is expanding the automobile market through its success in mass-producing hydrogen-powered vehicles for the first time in the world and launching GENESIS, a high-end brand, while propelling the future mobility industry forward based on its leadership in autonomous driving and connectivity technologies. It seeks to find better solutions for humanity by achieving technological innovation under the aim of 'Progress for Humanity'.",
+            "description": [
+                "Hyundai Automotive S.A. is looking for 1st year Apprentice to join our dynamic team: The Apprentice scope will include but not be limited to the following: REMOVE, RECONDITION & REPLACE CYLINDER HEADS DISMANTLE, SERVICE, REPAIR & ASSEMBLE ENGINE BLOCK & WITH MAIN COMPONENTS REMOVE, DIAGNOSE & REPLACE FUEL SYSTEM COMPONENTS UNDERSTAND BASIC ELECTRONICSTEST IGNITION SYSTEM COMPONENTS STUDY FUNDAMENTALS OF ENGINE EFFICIENCY & FORCED CHARGING SYSTEMSRE MOVE, TEST, REPAIR & REPLACE ELECTRICAL COMPONENTS REMOVE & REPLACE CLUTCH & TRANSMISSION COMPONENTS DIAGNOSE & REPAIR BRAKE SYSTEM & COMPONENTS."
+            ],
+            "responsibility":[
+
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric",
+                "N1-N4"
+            ],
+            "skills":[
+                "Good Communication skills",
+                "Interest in Motor Mechanics"
+                
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://motus.erecruit.co/candidateapp/Jobs/View/MOT221110-4"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Internship",
+            "author":"Admin"
+        },
+        {
+            "id": "003",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "Transnet",
+            "tittle": "Learner: Work Integrated Non-Technical",
+            "duration":"Not Specified",
+            "closing":"16 Feb 2024",
+            "posted":"12 Feb 2024",
+            "period":"N/A",
+            "location":"Durban, KZN,",
+            "introduction":"As the custodian of ports, rail and pipelines, Transnet’s objective is to ensure a globally competitive freight system that enables sustained growth and diversification of the country’s economy. Transnet SOC Ltd is a public company (constituted in terms of the Legal Succession Act of 1989), with the South African Government as the sole shareholder",
+            "description": [
+                "The purpose of the Training Programme is to develop a pipeline for key roles within Transnet Port Terminals (TPT) through a structured 12-month training programme. The programme seeks to place Learners in specific areas within TPT according to their academic background, career aspirations and business requirements."
+            ],
+            "responsibility":[
+                "Follow a structured training programme",
+                "Undergo performance reviews and assessments",
+                "Perform all duties as contained in his/her development programme and any reasonable task requested by TPT"
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric",
+                "•N6/TVET Certificate/NCV 4 Certificate in one of the following fields, with letter from Institution indicating in-service training",
+                
+                "Training & Devel'opment",
+                "Employee Relations,",
+                "Public Relations",
+                "Information Technology",
+                "Security",
+                "Sales & Marketing",
+                "Planning",
+                "Fleet Control/Transport Management"
+            ],
+            "skills":[
+                "Time management",
+                " Interpersonal skills and relationship building",
+                " Conflict management and resolution",
+                " Effective writing skills",
+                " Self-motivated",
+                " Attention to detail",
+                " Service orientated",
+                " Can-do-attitude",
+                " Integrity",
+                "Ability to work under pressure",
+                "Computer literacy (Microsoft Office Packages",
+                "Ability to multi-task",
+                "NB: Attach letter from Institution indicating in-service training request",
+                "Preference will be given to applicants within the eThekwini Municipality."
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://recruiting.transnet.net/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9RjY2OUQ4RUE0NjAyMUVERUIxQ0I0Q0ZENDhERDhGNjYmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=400&sap-language=EN&SAP-BROWSERHISTORY=disabled&SAP-EP-IVIEWHANDLE=007318092524&SAP-EP-IVIEWID=pcdshort%3a%2fHy9Jg0OCOvUdyuVHP%208aLT7Ep14%3d&SAP-EP-PCDUNIT=pcdshort%3a%2flDEPsu1fcMHZaA5D3b2rFDtzcaw%3d&SAP-EP-VERSION=7.50.202007312119&SAP-EXPLANATION=null&SAP-IE=EmulateIE8&SAP-WD-TSTAMP=1707461258201#"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Internship",
+            "author":"Admin"
+        },
+        {
+            "id": "004",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "Spar Group",
+            "tittle": "Spar YES Programme",
+            "duration":"12 Months | 1 April 2024– 31 March 2025",
+            "closing":"23 Feb 2024",
+            "posted":"21 Feb 2024",
+            "period":"N/A",
+            "location":"Durban, KZN,",
+            "introduction":"We are a part of the community and community is like family. We strive to give you the highest quality produce, the freshest meats, and granny-approved baked goods, all at the right price, every day.",
+            "description": [
+                "The SPAR Group Ltd SA understands that youth employment is important for our country’s economic growth. As such, SPAR has collaborated with YES for Youth to create a quality work experience to enable youth to reach their full career potential. Catalyx, as an implementation partner for SPAR SA is inviting unemployed youth to apply to join the YES for Youth twelve month work experience opportunity. SPAR / YES / Catalyx, does NOT charge any fees to join the programme."
+            ],
+            "responsibility":[
+                "In KwaZulu Natal we have opportunities open at our Distribution Centres in Phoenix Industrial Park and Mount Edgecombe. Interns will earn a minimum wage, receive ongoing personal development training and coaching and numerous other benefits. SPAR’s purpose is “to inspire people to do and be more” and we live by our company values of Family, Entrepreneurship and Passion, a culture that takes the development of our people seriously"
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric",
+                "Must be a South African Citizen",
+                "Must be 18 – 28 years old",
+                "Currently unemployed and NOT studying full time",
+                "Passed Matric and with the relevant Tertiary Qualification (Undergraduate Degree)",
+
+                "Degree in Financial Management / Cost and Management Accounting",
+                "Degree in Retail Management / Business Management / Supply Chain Management",
+                "Information Technology",
+                "Degree in Road Transport Management",
+                "Degree in Project Management",
+                "Degree in Consumer Science: Food and Nutrition / Biochemistry",
+                "Degree in Quality Control: Food Technology / Microbiology",
+                "Degree in Environmental Health",
+                "Degree in Safety Management / Quality Assurance"
+            ],
+            "skills":[
+                "Not specified"
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://www.pnet.co.za/jobs--YES-Programme-Durban-SPAR-Group--3768734-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_0_0"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Internship",
+            "author":"Admin"
+        },
+        {
+            "id": "005",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "Thruworths",
+            "tittle": "Stores Learnership",
+            "duration":"Not Specified",
+            "closing":"15 May 2024",
+            "posted":"21 Feb 2024",
+            "period":"N/A",
+            "location":"Multiple locations in Gauteng",
+            "introduction":"Truworths forms part of Truworths International, an investment holding company listed on the JSE, whose companies are engaged in the retailing of fashion apparel and accessories. The Truworths International Retail Group incorporates Identity, YDE and Uzzi.",
+            "description": [
+                "The learnership will allow individuals to be cross trained making them able to operate on both the sales floor and the service desk, of a retail outlet. Working with customers and stock will be a key focus area. To be successful in this position, you must be committed to learning and completing logbooks; be prepared for assessments and found to be competent as a crossed trained sales consultant."
+            ],
+            "responsibility":[
+                "Work a minimum of 120 hours",
+                "Learn and form knowledge",
+                "Prepare for Assessments",
+                "Assist customers with finding merchandise",
+                "Merchandising the store according to the MBP principals",
+                "Payments and purchases on the POS system",
+                "Opening new accounts",
+                "Maintaining or controlling stock losses",
+                "Building relationships with customers",
+                "Maintaining customer security and safety"
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Grade 10",
+                "Passion for fashion and retail"         
+            ],
+            "skills":[
+                "Not specified"
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://truworths-learnerships.erecruit.co/candidateapp/Jobs/Categories/Gauteng/e417e7b31e354a05ad949cf41a377969"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Learnership",
+            "author":"Admin"
+        },
+        {
+            "id": "006",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "TotalEnergies Marketing South Africa (Pty) Ltd ",
+            "tittle": "Learnership - Supply Chain",
+            "duration":"12 Months",
+            "closing":"Not specified",
+            "posted":"21 Feb 2024",
+            "period":"N/A",
+            "location":"Durban, KZN",
+            "introduction":"TotalEnergies is an equal opportunity employer and all applicants that meet the specified criteria will receive consideration for employment without discriminating unfairly on any arbitrary ground, including but not limited to race, gender, sex, ethnic or social origin, colour, sexual orientation, age, disability, religious conscience belief, political opinion, culture, language, marital status, or family responsibility.",
+            "description": [
+                "A 12 months learnership opportunity for the Youth with a National Senior Certificate (Matric).."
+            ],
+            "responsibility":[
+                "he learner will be placed at The Lubricants Manufacturing Plant in Durban (Island View) and will gain practical experience in Logistics and multi-functional administrative duties"
+
+            ],
+            "exp":[
+                "None or less than 3 years"
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric"         
+            ],
+            "skills":[
+                "Negotiation Skills."
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://totalenergies.avature.net/en_US/careers/JobDetail/Learnership-Supply-Chain/40492#"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Learnership",
+            "author":"Admin"
+        },
+        {
+            "id": "007",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "employer": "Tiger Brands",
+            "tittle": "Intern: Quality (Boksburg)",
+            "duration":"12 Months",
+            "closing":"Not specified",
+            "posted":"21 Feb 2024",
+            "period":"N/A",
+            "location":"Boksburg, Gauteng",
+            "introduction":"Woven into the fabric of our beautiful country is the story of an extraordinary company that has touched the lives of South Africans for over nine decades. The Tiger Brands’ story is one rich in bold moves, belief and brilliance, centred around our expansive portfolio of proudly South African brands. From iconic TV adverts like the Koo ‘Mama Thembu’s getting married’ advert to cherished memories of sharing a Tinkies with your best friend on the playground, our brands have been part of the moments that matter in the lives of millions of South Africans since 1921. We have developed an intrinsic understanding of our consumers’ needs, recognising the moments when they need us most, and how best to meet these needs from the very beginning of life through to old age. Our purpose is simple - to nourish and nurture more lives every day.",
+            "description": [
+                "An opportunity to work on and support projects within Tiger Brands. This Intership role will provide you with practical experience and give you a head start and understanding on your chosen career path."
+            ],
+            "responsibility":[
+                "Support project work",
+                "Problem-solve issues",
+                "Work with a cross-functional team to complete a Work Integrated Learning project as assigned by your Line Manager",
+                "Attain on-the-job work experience aligned with your career aspirations",
+                "Perform additional responsibilities as requested to achieve business objectives.",
+                "You would have graduated with the relevant degree as per the job title"
+
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Grade 12 | Matric",
+                "National Diploma: (Must require P1 & P2)"         
+            ],
+            "skills":[
+                "None"
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://www.linkedin.com/jobs/view/3819955248/?trackingId=ni9T%2FSZSTVObJp4wfFz1aw%3D%3D&refId=edCt6WQISp65CNUDRST5cw%3D%3D&midToken=AQHTRHcOwM4_4Q&midSig=0UdmMk5xxwvX81&trk=eml-jobs_jymbii_digest-job_card-0-jobcard_body&trkEmail=eml-jobs_jymbii_digest-job_card-0-jobcard_body-null-9wys7s~lsvp3j8p~tv-null-null&eid=9wys7s-lsvp3j8p-tv&otpToken=MTcwYzE3ZTUxNDI4YzhjMmJjMjQwNGVkNDYxNmUyYjU4Y2M3ZDU0ODljYTY4YzYxNzRjZjA4NmQ0ZjU5NWZmNmY3ZDdkZmE3NGNiNmVhZTQ0MWE5YWRkMjJmZThjOTlmNTVmNjk4N2EyNmQwYzc5Y2Q1YzkxZiwxLDE%3D"
+                },
+                {
+                    "state": false,
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                },
+                {
+                    "state": false,
+                    "type": "multiple",
+                    "name":[
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ],
+            "important":[],
+            "category":"Internship",
+            "author":"Admin"
+        },
+        {
+            "id": "008",
+            "cloudlogo":"https://drive.google.com/uc?id=1-q-AgMfe3KA6bLokpdKGu434-kUFdkaf",
+            "logo":"../media/tipegrahics-logo.png",
+            "tittle": "Apprentice Motor Mechanic Training Level 1",
+            "employer": "Motus | Lindsay Saker",
+            "duration":"Permanent",
+            "closing":"15 Feb 2024",
+            "posted":"12 Feb 2024",
+            "period":"Permanent",
+            "location":"Kempton Park, Gauteng",
+            "introduction":"Motus is a multi-national provider of automotive mobility solutions and vehicle products and services, with a leading market presence in South Africa as well as a selected international offering in the United Kingdom, Australia, South East Asia and Southern and East Africa. Motus employs over 19 800 people globally and has a track record for steady growth and dependable value creation that spans over 75 years. Motus is a diversified (non-manufacturing) business in the automotive sector and is South Africa’s leading automotive group, with unrivalled scale and scope across the automotive value chain.",
+            "description": [
+                "Lindsay Saker Kempton Park  offers suitable candidates an Accredited Competency Based Modular Training (CBMT) Apprenticeship, which is a combination of on-the-job training (OJT) and related classroom instruction under the supervision of a Qualified Motor Vehicle Mechanic. Imperial Technical Training Academy (ITTA) provides the theoretical; classroom-based education, which is situated in Ext 4, 16 Dakota Cres, Airport Park, Johannesburg, 1401."
+            ],
+            "responsibility":[
+                "Levels 1 - 4: 4 yr. contract",
+                "5 days in 5 weeks training at ITTA.",
+                "Distance learning program -CDX (this enhances apprentice training by exposure of interactive demonstrations and tutorials with quizzes and practical exercises delivered via the web at their place of work and at home in their study time.",
+                "Computer based testing and examination.",
+                "Practical competency testing",
+                "MIBCO",
+                "VW Service department on the job experience aligned to the level of competence achieved through the CBMT programme. Gather evidence to complete your portfolio of evidence as required by ITTA. o Working alongside an assigned technician in order to learn how to perform quality service maintenance and repairs to the original manufacturers’ description. Complete portfolio of evidence, o Inspect, maintain and repair vehicles whilst training with a qualified technician."
+            ],
+            "exp":[
+                "None"
+            ],                      
+            "qualifications":[
+                "Matric (N2 with Mathematics, Engineering Science and English (50% are essential)",
+                "Driver’s license",
+                "Computer literacy",
+                "The applicant will be required to take a mechanical insight test and pass sufficiently.",
+                "The applicant will go through trough the standard background checks before being considered for the next step. The applicant will go through a medical assessment to establish fitness for work.",
+                "Applicants that are successful will be placed through a Psychometric assessment and a face to face interview."
+
+            ],
+            "skills":[
+                "Team Work",
+                "Custumer Care"
+                
+            ],
+            "Benefits":"",
+            "apply":[
+                {
+                    "state": false,
+                    "type": "email",
+                    "name":"info@company.co.za"
+                },
+                {
+                    "state": true,
+                    "type": "online",
+                    "name":"https://motus.erecruit.co/candidateapp/Jobs/View/MOT240208-2"
+                },
+                {
+                    "state": false, 
+                    "type": "post",
+                    "name":"P.O Box 000 Johannesburg 0743"
+                }
+            ],
+            "important":[],
+            "category":"Internship",
+            "author":"Admin"
+        }
+    ]
+
+}
